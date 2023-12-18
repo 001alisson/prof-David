@@ -52,7 +52,11 @@
     }
     .card2{
         width: 600px;
-        height: 450px;
+        height: 400px;
+    }
+    .quad2{
+        width: 600px;
+        height: 400px;
     }
     .card2 p{
         font-size: 18px;
