@@ -1,0 +1,77 @@
+@media screen and (max-width: 750px){
+    
+    .naveg{
+        grid-template-columns: 100px 950px;    
+    }
+    .logo{
+        width: 100px;
+        margin-left: 0;
+    }
+    .menu{
+        margin-left: 100px;
+    }
+
+    .capa{
+        width: 850px;
+        background-position-x: right;
+        background-position-y: top;
+        border: none;
+    }
+    #ss{
+        margin-left: 0px;
+        width: 370px;
+    }
+    .ct{
+        top: 0px;
+        margin-left: 50px;
+        grid-template-columns: 50%;
+        grid-template-rows: 50% 50%;
+    }
+
+    .curriculo{
+        grid-template-columns: 350px;
+        grid-template-rows: 450px 450px 450px;
+        margin-left: 470px;
+        transform: scale(1.5);
+        margin-top: 450px;
+        margin-bottom: 450px;
+    }
+
+    .curriculo2{
+        margin-left: 470px;
+        grid-template-columns: 600px;
+        grid-template-rows: 400px 400px;
+        transform: scale(1.3);
+        margin-top: 200px;
+    }
+    .card{
+        width: 350px;
+    }
+    .card li{
+        font-size: 17px;
+    }
+    .card2{
+        width: 600px;
+    }
+    .card2 p{
+        font-size: 18px;
+    }
+
+    .trabalhos{
+        margin-left: 500px;
+    }
+    .titulo{
+        margin-left: 150px;
+    }
+    .texto{
+        margin-left: 0px;
+        width: 500px;
+    }
+
+    .imagem{
+        display: none;
+    }
+    .bot{
+        width: 200px;
+    }
+}
